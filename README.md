@@ -1,14 +1,14 @@
 Chatty!
 =====================
-
-A simple chatting app
+!["Two users being chatty on Chatty"](URL)
+Chatty is a simple chatting app that allows multiple users to chat.
 
 ### Usage
 
-Clone the Chatty and create your own git repo.
+Clone the Chatty app and create your own git repo.
 
 ```
-git clone git@github.com:lighthouse-labs/react-simple-boilerplate.git
+git clone git@github.com:lighthouse-labs/chatty.git
 cd react-simple-boilerplate
 git remote rm origin
 git remote add origin [YOUR NEW REPOSITORY]
