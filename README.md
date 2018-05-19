@@ -1,6 +1,6 @@
 Chatty!
 =====================
-!["Two users being chatty on Chatty"](URL)
+!["Two users being chatty on Chatty"](https://github.com/samsamkim/chatty/blob/master/screenshots/chattytwouser.png?raw=true)
 Chatty is a simple chatting app that allows multiple users to chat.
 
 ### Usage
